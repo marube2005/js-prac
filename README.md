@@ -1,1 +1,1 @@
-# js-prac
+This is a simple practice of rock,paper,scissors game as a java script beginner. Java script is fun right.#JS  and HTML.
